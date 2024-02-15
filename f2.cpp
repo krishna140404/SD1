@@ -1,3 +1,10 @@
+/*
+* FILE : f2.cpp
+* PROJECT : Focused Assignment 2
+* PROGRAMMER : krishna kachhiapatel
+* FIRST VERSION : 2024-01-20.
+* Student id:8963150
+*/
 #include <stdio.h> 
 int main(void) {
 	int Sum = 0;
